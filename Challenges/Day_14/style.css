@@ -1,5 +1,5 @@
 body{
-  background: #F1CFBA;
+  background: linear-gradient(135deg,pink 0%,violet 100%)
 }
 
 img {
@@ -48,6 +48,7 @@ img {
   color: #020B29;
   text-align:center;
   font-size: 30px;
+  font-family: sans-serif;
 }
 
 .card:hover > .front{
